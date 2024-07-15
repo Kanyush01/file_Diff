@@ -10,10 +10,13 @@ In the project directory terminal
 
 2. Wait a moment for the Packages to be installed then after type
 
-### `npm start` In the project directory to start the application.
+### `npm start` 
+In the project directory to start the application.
 
 3. Choose 2 JSON files only as it accepts only JSON files (except JSON file other file in computers will not show to choose) and submit.
 
 4. If there is any difference it will show in the format
 
-### CHANGED at <key> : old value:<value>, new value:<value>
+### CHANGED at key_name : old value:value, new value:value
+
+5. For testing I created 2 JSON files using notepad++
